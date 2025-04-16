@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+.slick-prev:before,
+.slick-next:before {
+  color: black; 
+  font-size: 28px;
+}
+
