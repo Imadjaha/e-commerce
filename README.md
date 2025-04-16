@@ -9,7 +9,7 @@ This is a **full-stack e-commerce website** built using three different backend 
 - [Features](#features)
 - [Database Design](#database-design)
 - [Getting Started](#getting-started)
-- [Frontend](#frontend)
+- [Frontend Setup](#frontend-setup)
 - [Backend Setup Flask](#backend-setup-flask)
 - [Backend Setup Spring Boot](#backend-setup-spring-boot)
 - [Backend Setup ExpressJS](#backend-setup-expressjs)
@@ -82,7 +82,7 @@ git clone https://github.com/yourusername/ecommerce-fullstack.git
 cd ecommerce-fullstack
 ```
 
-## Frontend
+## Frontend Setup
 
 1. Navigate to the frontend directory:
 
