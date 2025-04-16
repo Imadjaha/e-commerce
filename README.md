@@ -53,7 +53,6 @@ This project utilizes a **MySQL** database to store all essential data, includin
 The database schema is designed to support robust e-commerce functionality, ensuring efficient querying, normalization, and relational integrity.
 
 
-
 #### Database Design Overview
 
 The following diagram provides a visual representation of the database schema used in this project:
