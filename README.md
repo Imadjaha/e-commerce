@@ -78,8 +78,8 @@ Ensure you have the following software installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-fullstack.git
-cd ecommerce-fullstack
+git clone https://github.com/imadjaha/e-commerce.git
+cd e-commerce
 ```
 
 ## Frontend Setup
